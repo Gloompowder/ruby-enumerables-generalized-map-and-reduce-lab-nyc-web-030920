@@ -5,5 +5,6 @@ def map(array)
   yield(array[index])
   index += 1
 end 
+array
 end
 
