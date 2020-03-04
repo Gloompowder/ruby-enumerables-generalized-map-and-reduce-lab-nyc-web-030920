@@ -10,7 +10,7 @@ new
 end
 
 def reduce(array, starting_point = nil)
-  if < starting_point 
+  if starting_point 
     index = 0 
   else 
   x = array[0]
