@@ -5,4 +5,5 @@ def map(array) {|x| x * -1}
   yield(array[index])
   index += 1
 end
+end
 
