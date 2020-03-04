@@ -11,5 +11,8 @@ end
 
 def reduce(array, starting_point = nil)
   if < starting_point 
-    
+    index = 0 
+    while 
+    index += 1 
+  end
 end
