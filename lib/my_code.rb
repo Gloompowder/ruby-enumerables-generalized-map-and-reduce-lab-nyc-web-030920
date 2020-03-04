@@ -4,6 +4,6 @@ def map(array) {|x| x * -1}
   while index < array.length
   yield(array[index])
   index += 1
-end
+  end
 end
 
