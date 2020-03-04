@@ -1,10 +1,6 @@
 # Your Code Here
-def map(array) 
-  index = 0 
-  while index < array.length do 
-    |x|
-  index += 1
-end 
+def map(array){ |x| x * -1 }
+  yield
 
 end
 
