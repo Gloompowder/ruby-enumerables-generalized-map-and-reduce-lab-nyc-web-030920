@@ -9,4 +9,7 @@ end
 new 
 end
 
-def reduce 
+def reduce(array, starting_point = nil)
+  if < starting_point 
+    
+end
