@@ -3,7 +3,7 @@ def map(array)
   new = []
   i = 0 
   while i < array.length 
-  new.push
+  new.push(yield)
   i += 1 
 end 
 new 
