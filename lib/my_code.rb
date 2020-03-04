@@ -1,4 +1,6 @@
 # Your Code Here
 def map(array)
-  array.map { |x| -n }
+  new_array = []
+  array.map { |x| new_array << (x * -1) }
+  new_array
 end
